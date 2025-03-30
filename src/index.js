@@ -1,1 +1,1 @@
-"console.log('Hello from Bereshit');" 
+console.log\(\"Hello from Bereshit!\"\)\; 
